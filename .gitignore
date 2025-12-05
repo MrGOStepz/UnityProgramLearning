@@ -97,3 +97,5 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+StartYour3DEngines/StartYour3DEngines/Library*
+StartYour3DEngines/StartYour3DEngines/Temp*
