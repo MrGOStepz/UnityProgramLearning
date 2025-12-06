@@ -99,3 +99,6 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 StartYour3DEngines/StartYour3DEngines/Library*
 StartYour3DEngines/StartYour3DEngines/Temp*
+.idea/*
+StartYour3DEngines/StartYour3DEngines/.idea/*
+StartYour3DEngines/StartYour3DEngines/obj/Debug/*
