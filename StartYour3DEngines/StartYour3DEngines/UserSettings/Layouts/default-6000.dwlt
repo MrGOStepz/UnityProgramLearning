@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1109
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -245,8 +245,8 @@ MonoBehaviour:
     y: 0
     width: 286
     height: 1053
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -670,7 +670,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Challenge 1/Scripts
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -680,7 +680,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Challenge 1/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Development\GitRepos\UnityProgramLearning\StartYour3DEngines\StartYour3DEngines
   m_LockTracker:
@@ -689,16 +689,14 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 45978
+    - m_Data: 45970
     m_LastClickedID:
-      m_Data: 45978
+      m_Data: 45970
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 45656
-    - m_Data: 45658
-    - m_Data: 45660
-    - m_Data: 45662
-    - m_Data: 45948
+    - m_Data: 45668
+    - m_Data: 45670
+    - m_Data: 45672
     - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -732,10 +730,11 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 45656
-    - m_Data: 45658
-    - m_Data: 45660
-    - m_Data: 45662
+    - m_Data: 45666
+    - m_Data: 45668
+    - m_Data: 45670
+    - m_Data: 45672
+    - m_Data: 45674
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -762,9 +761,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: 45562
-    m_LastClickedInstanceID: 45562
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -1558,7 +1556,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.14833917, y: -0.6581015, z: -0.13450547, w: 0.7258282}
     speed: 2
-    m_Value: {x: -0.14853926, y: -0.65700537, z: -0.13428146, w: 0.7268071}
+    m_Value: {x: 0.14833917, y: 0.6581015, z: 0.13450547, w: -0.72582823}
   m_Size:
     m_Target: 12.124355
     speed: 2
@@ -1637,13 +1635,13 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_Data: 45562
+      m_SelectedIDs: []
       m_LastClickedID:
-        m_Data: 45562
+        m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -1296
+      - m_Data: -2712
       - m_Data: -1294
+      - m_Data: 45562
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
