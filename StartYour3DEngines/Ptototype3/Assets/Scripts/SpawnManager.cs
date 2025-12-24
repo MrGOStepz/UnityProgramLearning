@@ -7,7 +7,6 @@ public class SpawnManager : MonoBehaviour
 
     private PlayerController playerControllerScript;
     private float startDelay = 2;
-
     private float repeatRate = 2;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
